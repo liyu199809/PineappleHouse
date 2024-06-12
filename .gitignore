@@ -1,0 +1,6 @@
+*.json
+*.txt
+*.pt
+*.bin
+*.faiss
+*.pkl

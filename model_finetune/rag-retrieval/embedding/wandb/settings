@@ -1,0 +1,5 @@
+[default]
+entity = liyu-xjtu1998
+project = embedding
+base_url = https://api.wandb.ai
+
