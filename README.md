@@ -111,7 +111,7 @@ python3 src/build_retriever.py
 python3 src/get_related_doc.py
 ```
 
-Here we construct retrievers of five models: gte-large-en-v1.5(finetuned), GritLm-7B, SFR-Embedding-Mistral, NV-Embed-v1, Linq-Embed-Mistral. We retrieve 100 docs for each query, using those five retrievers, and get five result files respectively in the result folder.
+Here we construct retrievers of five models: gte-large-en-v1.5(finetuned), GritLm-7B, SFR-Embedding-Mistral, NV-Embed-v1, Linq-Embed-Mistral. We retrieve 100 docs for each query by those five retrievers, and get five result files respectively in the result folder.
 
 ### combine multiple result sets
 
