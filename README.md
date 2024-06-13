@@ -19,7 +19,7 @@ Please refer to requirements.txt for detail environments
 - processed data: save processed data
 - results: save results txt file
 - src: main pipline of retriver
-- In addition we provide the checkpoint of finetuned gte-large-en-v1.5, you can download it from the BaiduYun disk (link：https://pan.baidu.com/s/1OOhfzIhedVWpgBYnBcTwKQ?pwd=8zoc, password：8zoc). You can convert the checkpoint to sentence-transformer checkpint form following the guidence of sentence-transformer official site [SentenceTransformers Documentation — Sentence Transformers documentation (sbert.net)](https://sbert.net/)
+- In addition we provide the checkpoint of finetuned gte-large-en-v1.5, you can download it from the Baidu Netdisk (link：https://pan.baidu.com/s/1OOhfzIhedVWpgBYnBcTwKQ?pwd=8zoc, password：8zoc). You can convert the checkpoint to sentence-transformer checkpint form following the guidence of sentence-transformer official site [SentenceTransformers Documentation — Sentence Transformers documentation (sbert.net)](https://sbert.net/)
 
 ### base model
 
