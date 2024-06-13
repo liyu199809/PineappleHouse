@@ -93,7 +93,7 @@ See the code comments for details on how to use. This code can merge the retriev
 
 ## How to reproduce our best result？
 
-We have explored a lot of ways to improve the effectiveness of our model, but some proves to be only useful in the valid dataset (reranker and hard negative), so we only apply some of the functions mentioned above in our best-result-model.
+We have explored a lot of ways to improve the effectiveness of our model, but some prove to be only useful in the valid dataset (for example, reranker and hard negative mining), so we only apply some of the functions mentioned above in our best-result-model.
 
 ### finetune embedding model
 
